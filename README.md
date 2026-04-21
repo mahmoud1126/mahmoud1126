@@ -12,8 +12,8 @@ I am Mahmoud Ibrahim, a second-year Computer Science student at the Faculty of C
 ### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:212401073@fci.helwan.edu.eg"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mahmoud-ibrahim-956015326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:mahmoudibrahim1469@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
